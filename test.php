@@ -6,4 +6,5 @@
 	echo  "rrrr";
 	no fast forword commit
 	dev doing
+	ÆäËû
 ?>
