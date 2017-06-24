@@ -6,6 +6,5 @@
 	echo  "rrrr";
 	no fast forword commit
 	dev doing
-	ÆäËû
 	learngit2 edit
 ?>
